@@ -1,0 +1,21 @@
+{
+  "name": "schwarzwald",
+  "displayName": "schwarzwald",
+  "description": "very dark green nature-themed colorscheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Schwarzwald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/schwarzwald-color-theme.json"
+      }
+    ]
+  }
+}
