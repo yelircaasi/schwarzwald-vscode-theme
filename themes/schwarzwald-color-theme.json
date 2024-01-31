@@ -34,7 +34,7 @@
 		"dropdown.listBackground": "#313131",
 		"editor.background": "#000700",
 		"editor.findMatchBackground": "#000f00",
-		"editor.foreground": "#162519",//"#014d29",
+		"editor.foreground": "#16331c",//"#014d29",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorGroup.border": "#ffffff17",
@@ -930,13 +930,13 @@
 		// 		"fontStyle": "bold"
 		// 	}
 		// },
-		// {
-		// 	"scope": "markup.heading",
-		// 	"settings": {
-		// 		"foreground": "#455964",
-		// 		"fontStyle": "bold"
-		// 	}
-		// },
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#455964",
+				"fontStyle": "bold"
+			}
+		},
 		// {
 		// 	"scope": "markup.italic",
 		// 	"settings": {
@@ -970,7 +970,7 @@
 		// {
 		// 	"scope": "punctuation.definition.quote.begin.markdown",
 		// 	"settings": {
-		// 		"foreground": "#6A9955"
+		// 		"foreground": "#995599"
 		// 	}
 		// },
 		// {
@@ -979,12 +979,12 @@
 		// 		"foreground": "#57647a"
 		// 	}
 		// },
-		// {
-		// 	"scope": "markup.inline.raw",
-		// 	"settings": {
-		// 		"foreground": "#CE9178"
-		// 	}
-		// },
+		{
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#CE9178"
+			}
+		},
 		// {
 		// 	"scope": "punctuation.definition.tag",
 		// 	"settings": {
